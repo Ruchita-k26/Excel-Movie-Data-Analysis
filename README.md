@@ -165,6 +165,7 @@ The dashboard summarizes key metrics such as:
 
 It also provides visual analysis of movie performance using the underlying Pivot Table and analytical data.
 
+![Movie Analysis Dashboard](Images/movie_analysis_dashboard.png)
 ---
 
 ## 💡 Key Analytical Questions
