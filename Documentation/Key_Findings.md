@@ -1,6 +1,6 @@
-# 🔍 Key Findings — Movie Industry Analysis
+# Key Findings — Movie Industry Analysis
 
-## 📊 Overall Performance
+## Overall Performance
 
 - The dataset contains **1,000 movies**.
 - The overall **average movie rating is 6.94/10**.
@@ -9,7 +9,7 @@
 
 ---
 
-## 📈 Revenue & Rating by Decade
+## Revenue & Rating by Decade
 
 - The **2010s generated the highest total revenue**, at approximately **$64,248.27 million**.
 - The **2000s generated approximately $61,858.89 million**, making it the second-highest revenue decade.
@@ -19,7 +19,7 @@
 
 ---
 
-## 🎭 Revenue by Genre
+## Revenue by Genre
 
 The highest-revenue genres were:
 
@@ -36,7 +36,7 @@ The highest-revenue genres were:
 
 ---
 
-## 🎬 Director Performance
+## Director Performance
 
 The highest average-rated directors in the analysis were:
 
@@ -53,7 +53,7 @@ The highest average-rated directors in the analysis were:
 
 ---
 
-## 🔞 Certificate vs Revenue
+## Certificate vs Revenue
 
 The highest total revenue by certificate was:
 
@@ -69,7 +69,7 @@ The highest total revenue by certificate was:
 
 ---
 
-## 📊 Votes vs Rating — Correlation Analysis
+## Votes vs Rating — Correlation Analysis
 
 - The correlation coefficient between **audience votes and movie rating is approximately 0.107**.
 - This indicates a **very weak positive relationship** between the number of votes and movie ratings.
@@ -77,7 +77,7 @@ The highest total revenue by certificate was:
 
 ---
 
-## 💡 Business & Analytical Takeaways
+## Business & Analytical Takeaways
 
 ### 1. Revenue increased significantly in recent decades
 The 2000s and 2010s account for the largest share of the analyzed revenue, with the 2010s being the highest.
@@ -96,7 +96,7 @@ The low correlation of **0.107** indicates that popularity measured through vote
 
 ---
 
-## ⚠️ Data Considerations
+## Data Considerations
 
 - Revenue values are represented in **millions**.
 - Genre-level revenue can overlap because individual movies may have multiple genres.
