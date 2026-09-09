@@ -113,6 +113,7 @@ The `Avg_Rating&Revenue` sheet analyzes movie revenue and average rating across 
 
 This helps investigate how movie performance and ratings vary across different decades.
 
+![Rating and Revenue by Decade](images/rating_revenue_by_decade.png)
 ---
 
 ### 🎭 Revenue by Genre
@@ -121,6 +122,7 @@ The `Revenue_by_genre` sheet analyzes total gross revenue across different movie
 
 This can be used to identify which genres generate the highest overall revenue.
 
+![Revenue by Genre](images/revenue_by_genre.png)
 ---
 
 ### 🎬 Director Performance
@@ -132,6 +134,7 @@ The `Director_performance` sheet evaluates directors based on:
 
 This provides a view of both **quality and volume of output** by director.
 
+![Director Performance](images/director_performance.png)
 ---
 
 ### 🔞 Certificate vs Revenue
@@ -140,6 +143,7 @@ The `Certificate vs Revenue` analysis compares movie certificates with total gro
 
 This helps identify whether different content-rating categories are associated with different revenue performance.
 
+![Certificate vs Revenue](images/certificate_vs_revenue.png)
 ---
 
 ### 📊 Statistical Analysis
@@ -150,6 +154,7 @@ The `Stat_Analysis` sheet includes statistical analysis, including the relations
 
 The project uses the Excel `CORREL()` function to calculate the correlation between these variables.
 
+![Votes vs Rating Correlation](images/correlation_votes_vs_rating.png)
 ---
 
 # 📊 Dashboard
@@ -165,7 +170,7 @@ The dashboard summarizes key metrics such as:
 
 It also provides visual analysis of movie performance using the underlying Pivot Table and analytical data.
 
-![Movie Analysis Dashboard](Images/movie_analysis_dashboard.png)
+![Movie Analysis Dashboard](images/movie_analysis_dashboard.png)
 ---
 
 ## 💡 Key Analytical Questions
@@ -207,10 +212,13 @@ Excel-Movie-Data-Analysis/
 ├── Excel/
 │   └── Movie_Analysis_Excel_Project.xlsx
 │
-├── Screenshots/
-│   ├── dashboard.png
-│   ├── data_cleaning.png
-│   └── analysis.png
+├── images/
+│   ├── movie_analysis_dashboard.png
+│   ├── correlation_votes_vs_rating.png
+│   ├── certificate_vs_revenue.png
+│   ├── director_performance.png
+│   ├── revenue_by_genre.png
+│   └── rating_revenue_by_decade.png
 │
 └── Documentation/
     └── Key_Findings.md
